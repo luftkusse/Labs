@@ -1,0 +1,7 @@
+D:\luftkusse\Studium\.Актив\LAB_6\bin\Debug\LAB_6.exe.config
+D:\luftkusse\Studium\.Актив\LAB_6\bin\Debug\LAB_6.exe
+D:\luftkusse\Studium\.Актив\LAB_6\bin\Debug\LAB_6.pdb
+D:\luftkusse\Studium\.Актив\LAB_6\obj\Debug\LAB_6.csprojAssemblyReference.cache
+D:\luftkusse\Studium\.Актив\LAB_6\obj\Debug\LAB_6.csproj.CoreCompileInputs.cache
+D:\luftkusse\Studium\.Актив\LAB_6\obj\Debug\LAB_6.exe
+D:\luftkusse\Studium\.Актив\LAB_6\obj\Debug\LAB_6.pdb
